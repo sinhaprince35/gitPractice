@@ -4,4 +4,4 @@ let sum = a + b;
 document.write(sum);
 
 
-//Add
+// Subtract
